@@ -1,0 +1,16 @@
+{
+  "name": "trashrfid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Noah Glaser",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4",
+    "nodejs-websocket": "^1.5.0",
+    "serialport": "^2.0.6"
+  }
+}
