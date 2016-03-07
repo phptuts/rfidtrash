@@ -4,15 +4,14 @@ $(document).ready(function() {
 
     ws.onopen = function()
     {
-        alert("I AM OPEN");
+        alert("I am ready to play informational videos on trash. :)");
     };
 
     ws.onmessage = function (evt)
     {
         console.log(evt.data);
         var data = JSON.parse(evt.data);
-        $('#title').html(data.title);
-        $('#player').attr('src', data.video)[0].play();
+        $('#player').attr('src', 'assets/videos/video' + data.videoNumber + '.mp4')[0].play();
 
     };
 
