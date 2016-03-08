@@ -4,21 +4,14 @@ var express = require('express');
 var app = express();
 var path = require('path');
 var connectionSocket = null;
-var mongoose = require('mongoose');
+var Engine = require('tingodb')();
 var bodyParser = require('body-parser');
 var currentRFID = "";
 
+var db = new Engine.Db(__dirname + '/data', {});
 
-var Schema = mongoose.Schema;
 
-var tagsSchema = mongoose.model('tags', {
-    tagHexKey: String,
-    videoNumber: Number
-});
-
-var Tag = mongoose.model('tags', tagsSchema);
-
-var serialPort = new SerialPort("/dev/cu.usbmodem1411", {//"/dev/tty-usbserial1", {
+var serialPort = new SerialPort("/dev/cu.usbmodem1451", {//"/dev/tty-usbserial1", {
     baudrate: 9600
 });
 
@@ -32,7 +25,6 @@ var server = ws.createServer(function (conn) {
 
 
 var server = app.listen(3000, function () {
-    mongoose.connect('mongodb://localhost/rfidvids');
     var host = server.address().address;
     var port = server.address().port;
     console.log('Example app listening at http://%s:%s', host, port);
@@ -50,41 +42,28 @@ app.get('/', function(req, res){
 
 
 app.get('/tags', function(req, res) {
-    mongoose.model('tags').find(function(err, tags) {
-        res.send(tags);
+    var tagCollection = db.collection('tags');
+    tagCollection.find(function(err, tags) {
+        tags.toArray(function(s, d) {
+            res.send(d);
+        });
     });
 });
 
 app.post('/tags', function(req, res){
-    mongoose.model('tags').findOne({'tagHexKey': req.body.tagHexKey}, function(err, tag){
-        if(null === tag) {
-            tag = new Tag({
-                tagHexKey: req.body.tagHexKey,
-                videoNumber: parseInt(req.body.videoNumber)
-            });
-        }
-        else {
-            tag.videoNumber = req.body.videoNumber;
-        }
-        tag.save(function(err) {
-            if(err) {
-                console.log(err);
-                throw err;
-            }
-            else {
-                res.send(tag);
-            }
-        });
+
+    var tagCollection = db.collection('tags');
+    tagCollection.remove({tagHexKey: req.body.tagHexKey.replace(/(?:\r\n|\r|\n)/g, '')});
+    tagCollection.insert({
+        tagHexKey: req.body.tagHexKey.replace(/(?:\r\n|\r|\n)/g, ''),
+        videoNumber: parseInt(req.body.videoNumber)
     });
+    res.send({success: true});
 });
 
 app.get('/manageTag', function(req, res) {
     res.sendFile(path.join(__dirname + '/manageTags.html'));
 });
-
-
-
-
 
 serialPort.on("open", function () {
     serialPort.on('data', function(data) {
@@ -93,12 +72,13 @@ serialPort.on("open", function () {
             if(currentRFID.indexOf('END READ') > 0) {
                 currentRFID =  currentRFID.replace('END READ', '').replace('BEGIN READ', '').replace(/ /g, '').replace(/(?:\r\n|\r|\n)/g, '');
                 console.log("Using RFID - " + currentRFID);
-                mongoose.model('tags').findOne({tagHexKey: currentRFID}, function(err, tag) {
-                    if(null === tag || undefined === tag) {
+                var tagCollection = db.collection('tags');
+                tagCollection.findOne({tagHexKey: currentRFID}, function(err, tag) {
+                    if(tag === undefined || tag === null) {
                         connectionSocket.sendText(JSON.stringify({"tagHexKey" : currentRFID, "videoNumber" : 4}));
                     }
                     else {
-                        connectionSocket.sendText(JSON.stringify(tag.toObject()));
+                        connectionSocket.sendText(JSON.stringify(tag));
                     }
                     currentRFID = "";
                 });
