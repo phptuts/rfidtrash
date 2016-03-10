@@ -11,7 +11,7 @@ var currentRFID = "";
 var db = new Engine.Db(__dirname + '/data', {});
 
 
-var serialPort = new SerialPort("/dev/cu.usbmodem1451", {//"/dev/tty-usbserial1", {
+var serialPort = new SerialPort("/dev/cu.usbmodem1411", {//"/dev/tty-usbserial1", {
     baudrate: 9600
 });
 
@@ -56,7 +56,7 @@ app.post('/tags', function(req, res){
     tagCollection.remove({tagHexKey: req.body.tagHexKey.replace(/(?:\r\n|\r|\n)/g, '')});
     tagCollection.insert({
         tagHexKey: req.body.tagHexKey.replace(/(?:\r\n|\r|\n)/g, ''),
-        videoNumber: parseInt(req.body.videoNumber)
+        videoName: req.body.videoName
     });
     res.send({success: true});
 });
@@ -75,7 +75,7 @@ serialPort.on("open", function () {
                 var tagCollection = db.collection('tags');
                 tagCollection.findOne({tagHexKey: currentRFID}, function(err, tag) {
                     if(tag === undefined || tag === null) {
-                        connectionSocket.sendText(JSON.stringify({"tagHexKey" : currentRFID, "videoNumber" : 4}));
+                        connectionSocket.sendText(JSON.stringify({"tagHexKey" : currentRFID, "videoName" : "StevieRayVaughn.webmhd.webm"}));
                     }
                     else {
                         connectionSocket.sendText(JSON.stringify(tag));

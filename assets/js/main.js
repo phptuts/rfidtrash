@@ -11,7 +11,7 @@ $(document).ready(function() {
     {
         console.log(evt.data);
         var data = JSON.parse(evt.data);
-        $('#player').attr('src', 'assets/videos/video' + data.videoNumber + '.mp4')[0].play();
+        $('#player').attr('src', 'assets/videos/' + data.videoName)[0].play();
 
     };
 
