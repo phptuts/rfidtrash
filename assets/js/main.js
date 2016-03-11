@@ -24,6 +24,10 @@ $(document).ready(function() {
         $('#player').attr('src', 'assets/videos/' + data.videoName)[0].play();
     };
 
+    setInterval(function() {
+        ws.send("I am still connected");
+    }, 1000);
+
 
 
     $("body").on("click", function() {
