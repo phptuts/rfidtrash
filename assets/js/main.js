@@ -21,8 +21,27 @@ $(document).ready(function() {
         console.log(evt.data);
         var data = JSON.parse(evt.data);
         $('#player').show();
-        $('#player').attr('src', 'assets/videos/' + data.videoName)[0].play();
+        $('#player').attr('src', 'assets/videos/' + data.videoName);
     };
+
+    var timer = 0;
+    video.addEventListener('progress', function (e) {
+        if (this.buffered.length > 0) {
+
+            if (timer != 0) {
+                clearTimeout(timer);
+            }
+
+            timer = setTimeout(function () {
+                if(parseInt(video.buffered.end() / video.duration * 100) == 100) {
+                    // video has loaded....
+                    $('#player')[0].play();
+                };
+            }, 100);
+
+        }
+    }, false);
+
 
     setInterval(function() {
         ws.send("I am still connected");
