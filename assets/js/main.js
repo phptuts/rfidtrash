@@ -22,25 +22,9 @@ $(document).ready(function() {
         var data = JSON.parse(evt.data);
         $('#player').show();
         $('#player').attr('src', 'assets/videos/' + data.videoName);
+        $('#player')[0].play();
+
     };
-
-    var timer = 0;
-    video.addEventListener('progress', function (e) {
-        if (this.buffered.length > 0) {
-
-            if (timer != 0) {
-                clearTimeout(timer);
-            }
-
-            timer = setTimeout(function () {
-                if(parseInt(video.buffered.end() / video.duration * 100) == 100) {
-                    // video has loaded....
-                    $('#player')[0].play();
-                };
-            }, 100);
-
-        }
-    }, false);
 
 
     setInterval(function() {
