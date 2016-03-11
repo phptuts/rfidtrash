@@ -1,180 +1,180 @@
 {"k":"0000000078","o":"0000000100","v":"001"}
 {"_id":2,"_uid":2,"_dt":1457678276186,"_s":"ad276ad7266f3ae8f94ddbb24243c152"}
-{"tagHexKey":"04AC4D0AF04980","videoName":"George Foreman.webmhd.webm","_id":{"$wrap":"$oid","v":2}}
+{"tagHexKey":"04AC4D0AF04980","videoName":"George Foreman.mp4","_id":{"$wrap":"$oid","v":2}}
 {"k":"0000000078","o":"0000000098","v":"001"}
 {"_id":3,"_uid":3,"_dt":1457678290064,"_s":"0555b576fd1e1a560c398f35718f1095"}
-{"tagHexKey":"04584C0AF04980","videoName":"GeorgeStrait.webmhd.webm","_id":{"$wrap":"$oid","v":3}}
+{"tagHexKey":"04584C0AF04980","videoName":"GeorgeStrait.mp4","_id":{"$wrap":"$oid","v":3}}
 {"k":"0000000078","o":"0000000098","v":"001"}
 {"_id":4,"_uid":4,"_dt":1457678307071,"_s":"14b546c4b965c6d4de8352cc766e6df6"}
-{"tagHexKey":"043B4F0AF04981","videoName":"Greater Tuna.webmhd.webm","_id":{"$wrap":"$oid","v":4}}
+{"tagHexKey":"043B4F0AF04981","videoName":"Greater Tuna.mp4","_id":{"$wrap":"$oid","v":4}}
 {"k":"0000000078","o":"0000000098","v":"001"}
 {"_id":5,"_uid":5,"_dt":1457678336670,"_s":"a3ce2b645e4fa081c18300e468c06bda"}
-{"tagHexKey":"04544E0AF04980","videoName":"IWouldntDoIt.webmhd.webm","_id":{"$wrap":"$oid","v":5}}
+{"tagHexKey":"04544E0AF04980","videoName":"IWouldntDoIt.mp4","_id":{"$wrap":"$oid","v":5}}
 {"k":"0000000078","o":"0000000096","v":"001"}
 {"_id":6,"_uid":6,"_dt":1457678363462,"_s":"bbc17e7aecb4daad0b954d791bb63904"}
-{"tagHexKey":"044B4E0AF04981","videoName":"JackIngram.webmhd.webm","_id":{"$wrap":"$oid","v":6}}
+{"tagHexKey":"044B4E0AF04981","videoName":"JackIngram.mp4","_id":{"$wrap":"$oid","v":6}}
 {"k":"0000000078","o":"0000000092","v":"001"}
 {"_id":7,"_uid":7,"_dt":1457678390304,"_s":"dd1511f74c77f542b8db351df294e81f"}
-{"tagHexKey":"04584A0AF04980","videoName":"JoeEly.webmhd.webm","_id":{"$wrap":"$oid","v":7}}
+{"tagHexKey":"04584A0AF04980","videoName":"JoeEly.mp4","_id":{"$wrap":"$oid","v":7}}
 {"k":"0000000078","o":"0000000101","v":"001"}
 {"_id":8,"_uid":8,"_dt":1457678445133,"_s":"94d1304a22f8a071601a061bbee38c31"}
-{"tagHexKey":"04724F0AF04981","videoName":"Jones and White.webmhd.webm","_id":{"$wrap":"$oid","v":8}}
+{"tagHexKey":"04724F0AF04981","videoName":"Jones and White.mp4","_id":{"$wrap":"$oid","v":8}}
 {"k":"0000000078","o":"0000000097","v":"001"}
 {"_id":9,"_uid":9,"_dt":1457678495794,"_s":"89f40fe16da0e3b677d0c6e9c8af6006"}
-{"tagHexKey":"04234C0AF04980","videoName":"KevinFowler.webmhd.webm","_id":{"$wrap":"$oid","v":9}}
+{"tagHexKey":"04234C0AF04980","videoName":"KevinFowler.mp4","_id":{"$wrap":"$oid","v":9}}
 {"k":"0000000080","o":"0000000098","v":"001"}
 {"_id":10,"_uid":10,"_dt":1457678521842,"_s":"d89c8187bba091c56f12107998ba5f73"}
-{"tagHexKey":"04D5530AF04980","videoName":"LeAnn Rimes.webmhd.webm","_id":{"$wrap":"$oid","v":10}}
+{"tagHexKey":"04D5530AF04980","videoName":"LeAnn Rimes.mp4","_id":{"$wrap":"$oid","v":10}}
 {"k":"0000000080","o":"0000000097","v":"001"}
 {"_id":11,"_uid":11,"_dt":1457678549990,"_s":"348a624cc3232e28ff2647d7f2242332"}
-{"tagHexKey":"0444510AF04980","videoName":"LyleLovett.webmhd.webm","_id":{"$wrap":"$oid","v":11}}
+{"tagHexKey":"0444510AF04980","videoName":"LyleLovett.mp4","_id":{"$wrap":"$oid","v":11}}
 {"k":"0000000080","o":"0000000102","v":"001"}
 {"_id":12,"_uid":12,"_dt":1457678559301,"_s":"cd62dc63ea1f344ad4ef022213b0bc9e"}
-{"tagHexKey":"04454F0AF04980","videoName":"StevieRayVaughn.webmhd.webm","_id":{"$wrap":"$oid","v":12}}
+{"tagHexKey":"04454F0AF04980","videoName":"StevieRayVaughn.mp4","_id":{"$wrap":"$oid","v":12}}
 {"k":"0000000080","o":"0000000097","v":"001"}
 {"_id":13,"_uid":13,"_dt":1457678597216,"_s":"9032dd1b9a4fc0327dcf76aa1cf270c2"}
-{"tagHexKey":"04A44B0AF04980","videoName":"Mike Scott.webmhd.webm","_id":{"$wrap":"$oid","v":13}}
+{"tagHexKey":"04A44B0AF04980","videoName":"Mike Scott.mp4","_id":{"$wrap":"$oid","v":13}}
 {"k":"0000000080","o":"0000000099","v":"001"}
 {"_id":14,"_uid":14,"_dt":1457678611137,"_s":"515ca5eb116cb132d409724ac7723546"}
-{"tagHexKey":"04274E0AF04980","videoName":"SunnySauceda.webmhd.webm","_id":{"$wrap":"$oid","v":14}}
+{"tagHexKey":"04274E0AF04980","videoName":"SunnySauceda.mp4","_id":{"$wrap":"$oid","v":14}}
 {"k":"0000000080","o":"0000000099","v":"001"}
 {"_id":15,"_uid":15,"_dt":1457678641943,"_s":"541bad359b82bad9669145d1b4048b52"}
-{"tagHexKey":"0463510AF04980","videoName":"WillieNelson.webmhd.webm","_id":{"$wrap":"$oid","v":15}}
+{"tagHexKey":"0463510AF04980","videoName":"WillieNelson.mp4","_id":{"$wrap":"$oid","v":15}}
 {"k":"0000000080","o":"0000000096","v":"001"}
 {"_id":16,"_uid":16,"_dt":1457678689810,"_s":"351de03ee00930cd4de64f97054a3117"}
-{"tagHexKey":"0473520AF04980","videoName":"Basuritas.webmhd.webm","_id":{"$wrap":"$oid","v":16}}
+{"tagHexKey":"0473520AF04980","videoName":"Basuritas.mp4","_id":{"$wrap":"$oid","v":16}}
 {"k":"0000000080","o":"0000000099","v":"001"}
 {"_id":17,"_uid":17,"_dt":1457678725151,"_s":"49f71c1615263a89b952559593c4eec5"}
-{"tagHexKey":"04A9530AF04980","videoName":"WillieNelson.webmhd.webm","_id":{"$wrap":"$oid","v":17}}
+{"tagHexKey":"04A9530AF04980","videoName":"WillieNelson.mp4","_id":{"$wrap":"$oid","v":17}}
 {"k":"0000000080","o":"0000000099","v":"001"}
 {"_id":18,"_uid":18,"_dt":1457678739400,"_s":"8c5abc8a8e97da74f1aa772464c0af7e"}
-{"tagHexKey":"047C4D0AF04980","videoName":"Greater Tuna.webmhd.webm","_id":{"$wrap":"$oid","v":18}}
+{"tagHexKey":"047C4D0AF04980","videoName":"Greater Tuna.mp4","_id":{"$wrap":"$oid","v":18}}
 {"k":"0000000080","o":"0000000099","v":"001"}
 {"_id":19,"_uid":19,"_dt":1457678751731,"_s":"ff08602ea87e90eb8ca7bf9b71536c91"}
-{"tagHexKey":"04684B0AF04980","videoName":"IWouldntDoIt.webmhd.webm","_id":{"$wrap":"$oid","v":19}}
+{"tagHexKey":"04684B0AF04980","videoName":"IWouldntDoIt.mp4","_id":{"$wrap":"$oid","v":19}}
 {"k":"0000000080","o":"0000000098","v":"001"}
 {"_id":20,"_uid":20,"_dt":1457678780386,"_s":"3c46bc987e3045588f9ad1ec136bf6f8"}
-{"tagHexKey":"04E14D0AF04980","videoName":"Confederate.webmhd.webm","_id":{"$wrap":"$oid","v":20}}
+{"tagHexKey":"04E14D0AF04980","videoName":"Confederate.mp4","_id":{"$wrap":"$oid","v":20}}
 {"k":"0000000080","o":"0000000094","v":"001"}
 {"_id":21,"_uid":21,"_dt":1457678795076,"_s":"c7e9357d57281e23601690220231ed48"}
-{"tagHexKey":"04504B0AF04980","videoName":"Excuses.webmhd.webm","_id":{"$wrap":"$oid","v":21}}
+{"tagHexKey":"04504B0AF04980","videoName":"Excuses.mp4","_id":{"$wrap":"$oid","v":21}}
 {"k":"0000000080","o":"0000000108","v":"001"}
 {"_id":22,"_uid":22,"_dt":1457678810627,"_s":"19056ad9992816b97534a9ac81ab9821"}
-{"tagHexKey":"04B34D0AF04980","videoName":"Fabulous Thunderbirds.webmhd.webm","_id":{"$wrap":"$oid","v":22}}
+{"tagHexKey":"04B34D0AF04980","videoName":"Fabulous Thunderbirds.mp4","_id":{"$wrap":"$oid","v":22}}
 {"k":"0000000080","o":"0000000097","v":"001"}
 {"_id":23,"_uid":23,"_dt":1457678834677,"_s":"72ed51ffd19f05f8f1593ffcae25b811"}
-{"tagHexKey":"04DB4E0AF04980","videoName":"JackIngram.webmhd.webm","_id":{"$wrap":"$oid","v":23}}
+{"tagHexKey":"04DB4E0AF04980","videoName":"JackIngram.mp4","_id":{"$wrap":"$oid","v":23}}
 {"k":"0000000080","o":"0000000101","v":"001"}
 {"_id":24,"_uid":24,"_dt":1457678849119,"_s":"6b26c62c99a6570c5aac9b83f67d220f"}
-{"tagHexKey":"04654B0AF04980","videoName":"George Foreman.webmhd.webm","_id":{"$wrap":"$oid","v":24}}
+{"tagHexKey":"04654B0AF04980","videoName":"George Foreman.mp4","_id":{"$wrap":"$oid","v":24}}
 {"k":"0000000080","o":"0000000102","v":"001"}
 {"_id":25,"_uid":25,"_dt":1457678864967,"_s":"db12ec644c582bf98844aa571c305e50"}
-{"tagHexKey":"04744F0AF04981","videoName":"Jones and White.webmhd.webm","_id":{"$wrap":"$oid","v":25}}
+{"tagHexKey":"04744F0AF04981","videoName":"Jones and White.mp4","_id":{"$wrap":"$oid","v":25}}
 {"k":"0000000080","o":"0000000098","v":"001"}
 {"_id":26,"_uid":26,"_dt":1457678883247,"_s":"06c24f9718685ac6e3b6c3e08964cbc9"}
-{"tagHexKey":"04F9520AF04980","videoName":"KevinFowler.webmhd.webm","_id":{"$wrap":"$oid","v":26}}
+{"tagHexKey":"04F9520AF04980","videoName":"KevinFowler.mp4","_id":{"$wrap":"$oid","v":26}}
 {"k":"0000000080","o":"0000000098","v":"001"}
 {"_id":27,"_uid":27,"_dt":1457678896608,"_s":"e3accd7b28e830cc1944bd72f9bf3b75"}
-{"tagHexKey":"04BC500AF04980","videoName":"LeAnn Rimes.webmhd.webm","_id":{"$wrap":"$oid","v":27}}
+{"tagHexKey":"04BC500AF04980","videoName":"LeAnn Rimes.mp4","_id":{"$wrap":"$oid","v":27}}
 {"k":"0000000080","o":"0000000097","v":"001"}
 {"_id":28,"_uid":28,"_dt":1457678911786,"_s":"091fcf23c1cd9c1e9b74ffc73ff59544"}
-{"tagHexKey":"04984B0AF04980","videoName":"LyleLovett.webmhd.webm","_id":{"$wrap":"$oid","v":28}}
+{"tagHexKey":"04984B0AF04980","videoName":"LyleLovett.mp4","_id":{"$wrap":"$oid","v":28}}
 {"k":"0000000080","o":"0000000102","v":"001"}
 {"_id":29,"_uid":29,"_dt":1457678921118,"_s":"17133c94ffe12a88ca357be37e98fbd4"}
-{"tagHexKey":"0476510AF04980","videoName":"StevieRayVaughn.webmhd.webm","_id":{"$wrap":"$oid","v":29}}
+{"tagHexKey":"0476510AF04980","videoName":"StevieRayVaughn.mp4","_id":{"$wrap":"$oid","v":29}}
 {"k":"0000000080","o":"0000000101","v":"001"}
 {"_id":30,"_uid":30,"_dt":1457678936094,"_s":"52ca18c94150748f9bcefbcd19f73ac5"}
-{"tagHexKey":"04704F0AF04981","videoName":"BeautifulTexas.webmhd.webm","_id":{"$wrap":"$oid","v":30}}
+{"tagHexKey":"04704F0AF04981","videoName":"BeautifulTexas.mp4","_id":{"$wrap":"$oid","v":30}}
 {"k":"0000000080","o":"0000000099","v":"001"}
 {"_id":31,"_uid":31,"_dt":1457679011612,"_s":"4f27365c1b2a25223a0673a2cecb1cdb"}
-{"tagHexKey":"04A9520AF04980","videoName":"SunnySauceda.webmhd.webm","_id":{"$wrap":"$oid","v":31}}
+{"tagHexKey":"04A9520AF04980","videoName":"SunnySauceda.mp4","_id":{"$wrap":"$oid","v":31}}
 {"k":"0000000080","o":"0000000093","v":"001"}
 {"_id":32,"_uid":32,"_dt":1457679066277,"_s":"71c1e76ef23baec660f5dfe1c0ca8180"}
-{"tagHexKey":"046B510AF04980","videoName":"JoeEly.webmhd.webm","_id":{"$wrap":"$oid","v":32}}
+{"tagHexKey":"046B510AF04980","videoName":"JoeEly.mp4","_id":{"$wrap":"$oid","v":32}}
 {"k":"0000000080","o":"0000000097","v":"001"}
 {"_id":33,"_uid":33,"_dt":1457679169318,"_s":"a58a77d1c7c725d18567a25d2134dd17"}
-{"tagHexKey":"0494520AF04980","videoName":"LyleLovett.webmhd.webm","_id":{"$wrap":"$oid","v":33}}
+{"tagHexKey":"0494520AF04980","videoName":"LyleLovett.mp4","_id":{"$wrap":"$oid","v":33}}
 {"k":"0000000080","o":"0000000098","v":"001"}
 {"_id":34,"_uid":34,"_dt":1457679248505,"_s":"782a705c62c60bbdf6673ec0214b9ab9"}
-{"tagHexKey":"04984D0AF04980","videoName":"LeAnn Rimes.webmhd.webm","_id":{"$wrap":"$oid","v":34}}
+{"tagHexKey":"04984D0AF04980","videoName":"LeAnn Rimes.mp4","_id":{"$wrap":"$oid","v":34}}
 {"k":"0000000051","o":"0000000000","v":"001"}
 {"_id":34,"_uid":34,"_dt":1457679298750,"_a":"del"}
 
 {"k":"0000000080","o":"0000000098","v":"001"}
 {"_id":35,"_uid":35,"_dt":1457679298753,"_s":"7ec1afdd785d01d64467139e70017d2c"}
-{"tagHexKey":"04984D0AF04980","videoName":"KevinFowler.webmhd.webm","_id":{"$wrap":"$oid","v":35}}
+{"tagHexKey":"04984D0AF04980","videoName":"KevinFowler.mp4","_id":{"$wrap":"$oid","v":35}}
 {"k":"0000000080","o":"0000000098","v":"001"}
 {"_id":36,"_uid":36,"_dt":1457679370488,"_s":"a9236b86b285cc490f86c73052d333ec"}
-{"tagHexKey":"048C4E0AF04980","videoName":"KevinFowler.webmhd.webm","_id":{"$wrap":"$oid","v":36}}
+{"tagHexKey":"048C4E0AF04980","videoName":"KevinFowler.mp4","_id":{"$wrap":"$oid","v":36}}
 {"k":"0000000080","o":"0000000102","v":"001"}
 {"_id":37,"_uid":37,"_dt":1457679444162,"_s":"4ce0c1d5c379dee4f9734cbf534205aa"}
-{"tagHexKey":"04AF4E0AF04980","videoName":"Jones and White.webmhd.webm","_id":{"$wrap":"$oid","v":37}}
+{"tagHexKey":"04AF4E0AF04980","videoName":"Jones and White.mp4","_id":{"$wrap":"$oid","v":37}}
 {"k":"0000000080","o":"0000000093","v":"001"}
 {"_id":38,"_uid":38,"_dt":1457679499695,"_s":"3ce467f0f59e44128c6dcd8e28c481ee"}
-{"tagHexKey":"04CE530AF04980","videoName":"JoeEly.webmhd.webm","_id":{"$wrap":"$oid","v":38}}
+{"tagHexKey":"04CE530AF04980","videoName":"JoeEly.mp4","_id":{"$wrap":"$oid","v":38}}
 {"k":"0000000080","o":"0000000097","v":"001"}
 {"_id":39,"_uid":39,"_dt":1457679545046,"_s":"f0c7c82de4bb1d8c7634308dcb217f44"}
-{"tagHexKey":"04334D0AF04980","videoName":"JackIngram.webmhd.webm","_id":{"$wrap":"$oid","v":39}}
+{"tagHexKey":"04334D0AF04980","videoName":"JackIngram.mp4","_id":{"$wrap":"$oid","v":39}}
 {"k":"0000000080","o":"0000000099","v":"001"}
 {"_id":40,"_uid":40,"_dt":1457679626724,"_s":"8d48ac5c59f4d097623259fa43d72711"}
-{"tagHexKey":"043A4E0AF04980","videoName":"IWouldntDoIt.webmhd.webm","_id":{"$wrap":"$oid","v":40}}
+{"tagHexKey":"043A4E0AF04980","videoName":"IWouldntDoIt.mp4","_id":{"$wrap":"$oid","v":40}}
 {"k":"0000000080","o":"0000000099","v":"001"}
 {"_id":41,"_uid":41,"_dt":1457679672627,"_s":"34e3176bc4ec81c9946f07f8f6effc9a"}
-{"tagHexKey":"04A74D0AF04980","videoName":"Greater Tuna.webmhd.webm","_id":{"$wrap":"$oid","v":41}}
+{"tagHexKey":"04A74D0AF04980","videoName":"Greater Tuna.mp4","_id":{"$wrap":"$oid","v":41}}
 {"k":"0000000080","o":"0000000099","v":"001"}
 {"_id":42,"_uid":42,"_dt":1457679717914,"_s":"78a80b4faae26cdef5ebf981ed189486"}
-{"tagHexKey":"04F4530AF04980","videoName":"WillieNelson.webmhd.webm","_id":{"$wrap":"$oid","v":42}}
+{"tagHexKey":"04F4530AF04980","videoName":"WillieNelson.mp4","_id":{"$wrap":"$oid","v":42}}
 {"k":"0000000080","o":"0000000099","v":"001"}
 {"_id":43,"_uid":43,"_dt":1457679771971,"_s":"5f95cbb8534139feef7f82ad1763722f"}
-{"tagHexKey":"048D4E0AF04980","videoName":"GeorgeStrait.webmhd.webm","_id":{"$wrap":"$oid","v":43}}
+{"tagHexKey":"048D4E0AF04980","videoName":"GeorgeStrait.mp4","_id":{"$wrap":"$oid","v":43}}
 {"k":"0000000080","o":"0000000101","v":"001"}
 {"_id":44,"_uid":44,"_dt":1457679820158,"_s":"1ae80e138db11af4813f0de5d9abc246"}
-{"tagHexKey":"048F4D0AF04980","videoName":"George Foreman.webmhd.webm","_id":{"$wrap":"$oid","v":44}}
+{"tagHexKey":"048F4D0AF04980","videoName":"George Foreman.mp4","_id":{"$wrap":"$oid","v":44}}
 {"k":"0000000080","o":"0000000108","v":"001"}
 {"_id":45,"_uid":45,"_dt":1457679859929,"_s":"9e95d1ef5c0f10d4d78b5c11a28a04aa"}
-{"tagHexKey":"0480510AF04980","videoName":"Fabulous Thunderbirds.webmhd.webm","_id":{"$wrap":"$oid","v":45}}
+{"tagHexKey":"0480510AF04980","videoName":"Fabulous Thunderbirds.mp4","_id":{"$wrap":"$oid","v":45}}
 {"k":"0000000080","o":"0000000108","v":"001"}
 {"_id":46,"_uid":46,"_dt":1457679870664,"_s":"0c735000bfd16658d18a47938d47e157"}
-{"tagHexKey":"04A1510AF04980","videoName":"Fabulous Thunderbirds.webmhd.webm","_id":{"$wrap":"$oid","v":46}}
+{"tagHexKey":"04A1510AF04980","videoName":"Fabulous Thunderbirds.mp4","_id":{"$wrap":"$oid","v":46}}
 {"k":"0000000080","o":"0000000094","v":"001"}
 {"_id":47,"_uid":47,"_dt":1457679915297,"_s":"1a4bfd1cc9ec42be15e218d2ad07ed8e"}
-{"tagHexKey":"0486510AF04980","videoName":"Excuses.webmhd.webm","_id":{"$wrap":"$oid","v":47}}
+{"tagHexKey":"0486510AF04980","videoName":"Excuses.mp4","_id":{"$wrap":"$oid","v":47}}
 {"k":"0000000080","o":"0000000094","v":"001"}
 {"_id":48,"_uid":48,"_dt":1457679924020,"_s":"b85474214965a4e3b2315242f506087c"}
-{"tagHexKey":"04A34B0AF04980","videoName":"Excuses.webmhd.webm","_id":{"$wrap":"$oid","v":48}}
+{"tagHexKey":"04A34B0AF04980","videoName":"Excuses.mp4","_id":{"$wrap":"$oid","v":48}}
 {"k":"0000000080","o":"0000000099","v":"001"}
 {"_id":49,"_uid":49,"_dt":1457679976106,"_s":"0223a4b7bf804a46c99c176fba3ef4f4"}
-{"tagHexKey":"04894D0AF04980","videoName":"SunnySauceda.webmhd.webm","_id":{"$wrap":"$oid","v":49}}
+{"tagHexKey":"04894D0AF04980","videoName":"SunnySauceda.mp4","_id":{"$wrap":"$oid","v":49}}
 {"k":"0000000080","o":"0000000097","v":"001"}
 {"_id":50,"_uid":50,"_dt":1457680030025,"_s":"5055cee13ceef3d79ce1ac2c818253de"}
-{"tagHexKey":"04104C0AF04981","videoName":"Mike Scott.webmhd.webm","_id":{"$wrap":"$oid","v":50}}
+{"tagHexKey":"04104C0AF04981","videoName":"Mike Scott.mp4","_id":{"$wrap":"$oid","v":50}}
 {"k":"0000000051","o":"0000000000","v":"001"}
 {"_id":16,"_uid":50,"_dt":1457680038380,"_a":"del"}
 
 {"k":"0000000080","o":"0000000097","v":"001"}
 {"_id":51,"_uid":51,"_dt":1457680038381,"_s":"1899bdbd54977067f84ffe213f43fb7d"}
-{"tagHexKey":"0473520AF04980","videoName":"Mike Scott.webmhd.webm","_id":{"$wrap":"$oid","v":51}}
+{"tagHexKey":"0473520AF04980","videoName":"Mike Scott.mp4","_id":{"$wrap":"$oid","v":51}}
 {"k":"0000000080","o":"0000000098","v":"001"}
 {"_id":52,"_uid":52,"_dt":1457680106650,"_s":"871a5247b266b2148c062b222142613f"}
-{"tagHexKey":"0433510AF04980","videoName":"Confederate.webmhd.webm","_id":{"$wrap":"$oid","v":52}}
+{"tagHexKey":"0433510AF04980","videoName":"Confederate.mp4","_id":{"$wrap":"$oid","v":52}}
 {"k":"0000000080","o":"0000000098","v":"001"}
 {"_id":53,"_uid":53,"_dt":1457680115926,"_s":"b32bb8aec39921553e80c03c2ee45d69"}
-{"tagHexKey":"04664D0AF04980","videoName":"Confederate.webmhd.webm","_id":{"$wrap":"$oid","v":53}}
+{"tagHexKey":"04664D0AF04980","videoName":"Confederate.mp4","_id":{"$wrap":"$oid","v":53}}
 {"k":"0000000080","o":"0000000101","v":"001"}
 {"_id":54,"_uid":54,"_dt":1457680167518,"_s":"5c7934d8f1ef1231b79161e416aa9241"}
-{"tagHexKey":"0499500AF04980","videoName":"BeautifulTexas.webmhd.webm","_id":{"$wrap":"$oid","v":54}}
+{"tagHexKey":"0499500AF04980","videoName":"BeautifulTexas.mp4","_id":{"$wrap":"$oid","v":54}}
 {"k":"0000000080","o":"0000000101","v":"001"}
 {"_id":55,"_uid":55,"_dt":1457680175381,"_s":"832ed9095a89f54b05a53373e492bcd5"}
-{"tagHexKey":"04914C0AF04980","videoName":"BeautifulTexas.webmhd.webm","_id":{"$wrap":"$oid","v":55}}
+{"tagHexKey":"04914C0AF04980","videoName":"BeautifulTexas.mp4","_id":{"$wrap":"$oid","v":55}}
 {"k":"0000000080","o":"0000000096","v":"001"}
 {"_id":56,"_uid":56,"_dt":1457680200239,"_s":"ed2a92fdda7f7a9896940f0f87adad4a"}
-{"tagHexKey":"048C4D0AF04980","videoName":"Basuritas.webmhd.webm","_id":{"$wrap":"$oid","v":56}}
+{"tagHexKey":"048C4D0AF04980","videoName":"Basuritas.mp4","_id":{"$wrap":"$oid","v":56}}
 {"k":"0000000051","o":"0000000000","v":"001"}
 {"_id":35,"_uid":56,"_dt":1457680607570,"_a":"del"}
 
 {"k":"0000000080","o":"0000000096","v":"001"}
 {"_id":57,"_uid":57,"_dt":1457680607571,"_s":"8f10f585b60575a005c864e502f23418"}
-{"tagHexKey":"04984D0AF04980","videoName":"Basuritas.webmhd.webm","_id":{"$wrap":"$oid","v":57}}
+{"tagHexKey":"04984D0AF04980","videoName":"Basuritas.mp4","_id":{"$wrap":"$oid","v":57}}
 {"k":"0000000080","o":"0000000096","v":"001"}
 {"_id":58,"_uid":58,"_dt":1457680621764,"_s":"268db6d5827bab72e3208744c487cd5d"}
-{"tagHexKey":"046F4C0AF04980","videoName":"Basuritas.webmhd.webm","_id":{"$wrap":"$oid","v":58}}
+{"tagHexKey":"046F4C0AF04980","videoName":"Basuritas.mp4","_id":{"$wrap":"$oid","v":58}}
