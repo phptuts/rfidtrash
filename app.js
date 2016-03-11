@@ -78,7 +78,11 @@ serialPort.on("open", function () {
                         connectionSocket.sendText(JSON.stringify({"tagHexKey" : currentRFID, "videoName" : "StevieRayVaughn.webmhd.webm"}));
                     }
                     else {
+                        if(tag.videoName.indexOf('Excuses') > -1) {
+                            tag.videoName = 'Excuses.mp4';
+                        }
                         connectionSocket.sendText(JSON.stringify(tag));
+
                     }
                     currentRFID = "";
                 });
