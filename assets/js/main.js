@@ -22,9 +22,12 @@ $(document).ready(function() {
         var data = JSON.parse(evt.data);
         $('#player').show();
         $('#player').attr('src', 'assets/videos/' + data.videoName);
-        $('#player')[0].play();
-
+	$('#player')[0].load();
     };
+
+    video.addEventListener('loadeddata', function() {
+	video.play();
+    });
 
 
     setInterval(function() {
