@@ -1,4 +1,23 @@
-video {
-    width: 100%;
-    height: 100%;
+html {overflow-x:hidden;}
+body {
+    margin:0;
+    padding:0;
+    width:100%;
+    height:100%;
+    background-image: url('/assets/images/background.jpg');
+    background-size:cover;
+    background-position-y: -130px;
+
 }
+
+video, object {
+    left:0;
+    position:absolute;
+    top:0;
+    width:100%;
+    height:100%;
+    padding:0;
+    margin:0;
+}
+video:-webkit-full-screen     { max-height: 100%; }
+video:-moz-full-screen        { max-height: 100%; }

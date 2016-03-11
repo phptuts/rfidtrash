@@ -11,7 +11,7 @@ var currentRFID = "";
 var db = new Engine.Db(__dirname + '/data', {});
 
 
-var serialPort = new SerialPort("/dev/cu.usbmodem1411", {//"/dev/tty-usbserial1", {
+var serialPort = new SerialPort("/dev/cu.usbmodem1451", {//"/dev/tty-usbserial1", {
     baudrate: 9600
 });
 
