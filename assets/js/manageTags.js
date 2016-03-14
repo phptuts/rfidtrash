@@ -4,7 +4,7 @@
 
 $(document).ready(function() {
     var ws = new WebSocket("ws://localhost:8001/");
-    $('video, object').maximage('maxcover');
+
     ws.onopen = function()
     {
         alert("Ready to scan RFID Sticker. :)");
